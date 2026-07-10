@@ -1,0 +1,31 @@
+{
+  "name": "sudouest.finance",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilcap/sudouest.finance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dilcap/sudouest.finance/issues"
+  },
+  "homepage": "https://github.com/Dilcap/sudouest.finance#readme",
+  "dependencies": {
+    "fast-xml-parser": "^5.9.3",
+    "next": "^16.2.10",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
